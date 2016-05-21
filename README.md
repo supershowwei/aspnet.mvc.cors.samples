@@ -1,0 +1,1 @@
+# aspnet.mvc.cors.samples
